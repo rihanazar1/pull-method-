@@ -6,28 +6,14 @@
 body,html{
     width: 100%;
     height: 100%;
-<<<<<<< HEAD
-    color: blue;
-}
-
-.header{
-    background-color: crimson;
-    color: white;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 150px;
-    font-size: 50px;
-=======
     /* color: blue; */
 }
 
 
 
 #image {
-    height: 200px;
+    height:  200px;
     width: 200px ;
     background-color: aqua;
     object-fit: contain;
->>>>>>> 74074f53900ec68389662f2edf0071be1742a729
 }
