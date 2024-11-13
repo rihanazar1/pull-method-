@@ -20,6 +20,16 @@ body,html{
     /* color: blue; */
 }
 
+.but button{
+    padding-left: 30px;
+    margin-top: 10px;
+    width: 20%;
+}
+
+
+
+
+
 
 
 #image {
